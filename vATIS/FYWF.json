@@ -2,7 +2,7 @@
 	"Name": "FYWF Windhoek FIR v3",
 	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fywf/refs/heads/main/vATIS/FYWF.json",
 	"updateSerial": 2025061201,
-	"Composites": [
+	"stations": [
 		{
 			"Name": "Walvis Bay",
 			"Identifier": "FYWB",
